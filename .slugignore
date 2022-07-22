@@ -1,0 +1,13 @@
+/da
+/db
+/dev
+/doc
+/ds
+/env
+.dvcignore
+backend.ipynb
+README.md
+mypy_test.txt
+/.github
+/.dvc
+/__pycache__
